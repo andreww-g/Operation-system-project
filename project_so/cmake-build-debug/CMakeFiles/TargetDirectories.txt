@@ -1,0 +1,3 @@
+/home/andrii/Downloads/project_so/cmake-build-debug/CMakeFiles/project_so.dir
+/home/andrii/Downloads/project_so/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrii/Downloads/project_so/cmake-build-debug/CMakeFiles/rebuild_cache.dir
